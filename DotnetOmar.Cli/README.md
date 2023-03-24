@@ -1,6 +1,6 @@
-# DotnetOmar Logger
+# DotnetOmar Cli
 
-DotnetOmar Logger project
+DotnetOmar Cli project
 
 ## Development
 

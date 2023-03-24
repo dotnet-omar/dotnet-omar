@@ -4,18 +4,16 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <PackageId>DotnetOmar.Logger</PackageId>
-        <Version>1.0.0</Version>
-        <Title>DotnetOmar Logger</Title>
+        <Title>DotnetOmar Cli</Title>
         <Authors>Omar Elsayed</Authors>
-        <Description>Colored Logger For Dictionary, List and more.</Description>
+        <Description>Cli Helper Methods</Description>
         <Copyright>Omar Elsayed</Copyright>
         <PackageProjectUrl>https://github.com/dotnet-omar/dotnet-omar</PackageProjectUrl>
         <PackageIcon>favicon.png</PackageIcon>
         <RepositoryUrl>https://github.com/dotnet-omar/dotnet-omar</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageTags>Logger, Dotnet</PackageTags>
-        <PackageReleaseNotes>Initiale version</PackageReleaseNotes>
+        <PackageTags>DotnetOmar, Cli</PackageTags>
+        <PackageReleaseNotes>initialize version</PackageReleaseNotes>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
