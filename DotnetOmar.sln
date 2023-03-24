@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetOmar", "DotnetOmar\DotnetOmar.csproj", "{70549299-B6FC-4186-93DA-C2FD50F07C0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetOmar.Logger", "DotnetOmar.Logger\DotnetOmar.Logger.csproj", "{5BF43A78-8807-427A-8AD0-56E2B20B9577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{70549299-B6FC-4186-93DA-C2FD50F07C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70549299-B6FC-4186-93DA-C2FD50F07C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70549299-B6FC-4186-93DA-C2FD50F07C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF43A78-8807-427A-8AD0-56E2B20B9577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF43A78-8807-427A-8AD0-56E2B20B9577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF43A78-8807-427A-8AD0-56E2B20B9577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF43A78-8807-427A-8AD0-56E2B20B9577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
