@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>DotnetOmar Helper</Title>
+        <Authors>Omar Elsayed</Authors>
+        <Description>Helper Methods</Description>
+        <Copyright>Omar Elsayed</Copyright>
+        <PackageProjectUrl>https://github.com/dotnet-omar/dotnet-omar</PackageProjectUrl>
+        <PackageIcon>favicon.png</PackageIcon>
+        <RepositoryUrl>https://github.com/dotnet-omar/dotnet-omar</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>DotnetOmar, Helper</PackageTags>
+        <PackageReleaseNotes>initialize version</PackageReleaseNotes>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
+        <None Include="favicon.png" Pack="true" PackagePath="\"/>
+    </ItemGroup>
+    
+</Project>
