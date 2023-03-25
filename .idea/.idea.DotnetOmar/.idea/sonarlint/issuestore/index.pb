@@ -1,10 +1,6 @@
 
 L
 DotnetOmar/DotnetOmar.csproj,3/a/3ac33d4957352054bd3317e970da1703a29461ca
-L
-ConsoleApp/ConsoleApp.csproj,a/9/a908f67e021dfafd6216abd1bfaba1162e07049e
-E
-ConsoleApp/Program.cs,4/8/48ae3c165ae925bf0c82e4de38b4ccdbaea66bcb
 E
 ConsoleApp/Dockerfile,7/c/7c3f1a6d2b896552afae99b54a56f393be4929e5
 =
