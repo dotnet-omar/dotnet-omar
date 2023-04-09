@@ -2,7 +2,7 @@
 
 public static class Cli
 {
-    public static string Prompt(string label, bool required = false, string[]? options = null)
+    public static string Prompt(string label, bool required = false, List<string>? options = null)
     {
         var inputValue = "";
         var isValidValue = true;
